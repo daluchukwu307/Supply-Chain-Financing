@@ -7,3 +7,5 @@ R
 "tests/invoice-tokenization.test.ts,9/9/996ce958970231e17cf5edf907a833f33c50ed93
 S
 #tests/financing-marketplace.test.ts,4/5/45acdd1ad6f1fda8494edc1fbb8e497edc02bda9
+S
+#contracts/invoice-tokenization.clar,f/c/fc6370e13f236cd8dff7e6803a6d6a9f17d50ae8
